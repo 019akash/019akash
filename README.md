@@ -34,16 +34,25 @@ I'm a passionate aspiring data scientist with a strong foundation in Statistics 
 
 ---
 
-## 📊 My GitHub Stats
+## 🌱 Currently Learning & Exploring
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BochelaAkash&show_icons=true&theme=radical&rank_icon=github" alt="Akash's GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BochelaAkash&layout=compact&theme=radical" alt="Akash's Top Languages"/>
-  <br/>
-  <!-- Optional: Streak Stats -->
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=BochelaAkash&theme=radical" alt="Akash's GitHub Streak"/> -->
-</p>
+I believe in continuous growth and am currently diving deeper into:
+
+*   🧠 **Advanced LLM Techniques:** Exploring fine-tuning strategies, RAG (Retrieval Augmented Generation), and agent-based LLM systems.
+*   🛠️ **MLOps Practices:** Understanding tools and methodologies for robust model deployment, monitoring, and lifecycle management (e.g., Kubeflow, MLflow, DVC).
+*   📊 **Advanced Data Visualization:** Mastering libraries like Plotly Dash or Streamlit for creating interactive data applications.
+*   🚀 **Scalable Data Processing:** Learning more about Apache Spark and distributed computing concepts.
+
+---
+
+## 🎯 Future Quests & Goals
+
+Looking ahead, I'm excited to:
+
+*   🚀 Contribute to open-source AI/ML projects that make a real-world impact.
+*   🏗️ Architect and deploy end-to-end machine learning systems in a production environment.
+*   🌐 Explore the intersection of AI with other domains like [e.g., healthcare, finance, or climate science].
+*   🌟 Continuously evolve as a Data Scientist and AI practitioner, staying at the forefront of innovation.
 
 ---
 
@@ -61,10 +70,8 @@ Feel free to reach out if you'd like to discuss a project, an idea, or just want
 
 <p align="left">
   <a href="https://linkedin.com/in/bochela-akash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bochela-akash" height="30" width="40" /></a>
-  <!-- Add other social media links if you have them (e.g., Twitter, personal website) -->
-  <!-- Example for email (though it's already in "About Me"):
   <a href="mailto:akashbochela019@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="akashbochela019" height="30" width="40" /></a>
-  -->
+  <a href="https://instagram.com/akash_019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="YOUR_INSTAGRAM_USERNAME" height="30" width="40" /></a>
 </p>
 
 ---
